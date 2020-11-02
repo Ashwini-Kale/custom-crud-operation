@@ -36,7 +36,7 @@ function product_list() {
     border-radius: 4px;
     font-size: 16px;
     background-color: white;
-    background-image: url('../wp-content/plugins/custom-product/images/search.png');
+    background-image: url('../wp-content/plugins/custom-crud-operation/images/search.png');
     background-position: 20px 20px;
     background-repeat: no-repeat;
     padding: 1% 5%;

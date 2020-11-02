@@ -22,7 +22,7 @@ font-weight: initial;padding: 5px 20px;width: 100%;}
     background: #f1f1f1;
     border: 1px solid #016087;
     color: #016087;
-    padding: 10px;width: 100%;}
+    padding: 10px;width: 100%;cursor: pointer;}
     </style>
 
 <div>
